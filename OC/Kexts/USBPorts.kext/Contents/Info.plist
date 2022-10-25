@@ -154,7 +154,7 @@
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>10</integer>
 						<key>name</key>
 						<string>SS01</string>
 						<key>port</key>
@@ -176,7 +176,7 @@
 					<key>SS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>9</integer>
+						<integer>10</integer>
 						<key>name</key>
 						<string>SS06</string>
 						<key>port</key>
